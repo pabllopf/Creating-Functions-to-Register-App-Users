@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/7b31247f-4345-4398-b201-dbbec81e0845)
+
+
 # Creating-Functions-to-Register-App-Users
 Define functions to catch errors when new users register for an app!
 
